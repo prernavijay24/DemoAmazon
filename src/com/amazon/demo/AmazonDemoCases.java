@@ -25,6 +25,10 @@ public class AmazonDemoCases {
 		driver.close();
 		
 		System.out.println("Hello");
+		
+		System.out.println("push check");
+		
+		System.out.println("asdngsf");
 	}
 	
 
