@@ -21,6 +21,8 @@ public class AmazonDemoCases {
 		String titleText = driver.getTitle();
 		System.out.println(titleText);
 		driver.close();
+		
+		System.out.println("Hello");
 	}
 	
 	public static void main(String args[])
